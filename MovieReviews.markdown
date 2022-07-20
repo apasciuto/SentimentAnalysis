@@ -1,18 +1,3 @@
----
-layout: post
-title:  "Sentiment Analysis: Movie Reviews"
-cover: "/assets/media/movie-reviews/popcorn.png"
-permalink: /:categories/:year/:month/:day/Sentiment-Analysis-Naive-Bayes
-excerpt_separator: <!--end-->
-categories: projects
-date: 2017-09-16
----
-
-Using Naive Bayes to Classify Movie Reviews Based on Sentiment.
-
-<!--end-->
-
-
 # Sentiment Analysis: Naive Bayes
 
 **Using Naive Bayes to Classify Movie Reviews Based on Sentiment.**  
